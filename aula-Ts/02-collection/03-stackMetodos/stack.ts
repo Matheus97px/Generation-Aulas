@@ -1,0 +1,1 @@
+import readLine = require("readline-sync")
